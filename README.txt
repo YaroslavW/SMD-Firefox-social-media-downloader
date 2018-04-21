@@ -55,7 +55,7 @@ in a convenient format for download.
 
 If you did not seem to have enough of this information, then you can read my post and see the explanations in the pictures.
 FireFox: SMD-Social Media Downloader
-https://abcinblog.blogspot.com/2018/04/firefox-snd-social-media-downloader.html
-
+https://abcinblog.blogspot.com/2018/04/firefox-smd-social-media-downloader.html
+https://abcinblog.blogspot.ru/2018/04/firefox-smd-social-media-downloader.html
 2017 -  All rights reserved.
 Created with love by Yaroslav Kolesnikov.
