@@ -118,4 +118,7 @@ document.addEventListener("keydown", function(e){
 }
 return true;
 });
+<<<<<<< HEAD
 // в связи с изменениями этот код может работать некоррекно
+=======
+>>>>>>> 65ba52c147487ccd1120140f4bb3d82ef8c92caa
